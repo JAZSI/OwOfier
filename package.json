@@ -1,0 +1,17 @@
+{
+  "name": "@jaszi/owo",
+  "version": "1.0.0",
+  "description": "a simple package that allows you to \"owoify\" your text by replacing certain words and letters with \"owo\" variations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "owo",
+    "uwu",
+    "owoifier",
+    "cute"
+  ],
+  "author": "Jaszi",
+  "license": "MIT"
+}
