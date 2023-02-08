@@ -1,4 +1,7 @@
 # @jaszi/owo
+
+> Just copy the function in the index.js to your code UwU
+
 @jaszi/owo is a simple package that allows you to "owoify" your text by replacing certain words and letters with "owo" variations.
 
 ## Installation
